@@ -1,0 +1,1 @@
+alert("This contains logic of adding.");
